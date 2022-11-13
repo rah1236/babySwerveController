@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "DSPIC33FJ128MC804")(type "KiCad")(uri "${KIPRJMOD}/DSPIC33FJ128MC804.kicad_sym")(options "")(descr ""))
+  (lib (name "MT1470")(type "KiCad")(uri "${KIPRJMOD}/MT1470.kicad_sym")(options "")(descr ""))
 )
